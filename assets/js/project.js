@@ -18,15 +18,15 @@ export const project = [
     img: "./assets/img/savemore.png",
     link: "https://play.google.com/store/apps/details?id=com.lendMkopoPesa.trustedFinanceSolution.cashInstant"
   },
-  {
-    id: 7,
-    title: "iKopah - Manage Finances",
-    description: "Take control of your spending and income with <span>iKopah</span>. Monitor your daily expenses, track income sources, and set financial goals with ease. Experience the simplicity of managing your finances and planning for a secure financial future.",
-    category: "Finance,",
-    others: "Income, Savings, Expenses",
-    img: "./assets/img/ikopah.png",
-    link: "https://play.google.com/store/apps/details?id=com.financeManager.expenseBudgetTracker.budgetPlanner"
-  },
+  // {
+  //   id: 7,
+  //   title: "iKopah - Manage Finances",
+  //   description: "Take control of your spending and income with <span>iKopah</span>. Monitor your daily expenses, track income sources, and set financial goals with ease. Experience the simplicity of managing your finances and planning for a secure financial future.",
+  //   category: "Finance,",
+  //   others: "Income, Savings, Expenses",
+  //   img: "./assets/img/ikopah.png",
+  //   link: "#"
+  // },
   // {
   //   id: 6,
   //   title: "CashWise Bank App",
